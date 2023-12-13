@@ -8,5 +8,15 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "richtext",
+    "description": "richtext",
+    "fieldId": "richtext",
+    "modelId": "testa",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
