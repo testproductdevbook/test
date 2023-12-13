@@ -18,5 +18,15 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "mardown22",
+    "description": "mardown22",
+    "fieldId": "mardown22",
+    "modelId": "testa",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
